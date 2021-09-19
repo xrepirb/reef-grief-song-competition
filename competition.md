@@ -2,6 +2,8 @@
 layout: page
 title: About the comp
 subtitle: Eveything you need to know 
+cover-img: /assets/img/reefs/OceanImageBank_AnettSzaszi_05.jpg
+share-img: /assets/img/reefs/OceanImageBank_AnettSzaszi_05.jpg
 ---
 
 ## Criteria
