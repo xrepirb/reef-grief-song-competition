@@ -19,7 +19,6 @@ body {
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
-  background-size: 2500px;
   {% endif %}
 }
 p {
@@ -378,7 +377,6 @@ footer {
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
     background-attachment: fixed;
-    background-size: 2500px;
   {% endif %}
 }
 
