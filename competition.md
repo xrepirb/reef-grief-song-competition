@@ -19,14 +19,16 @@ Your music can about any topic related to reef threats and global heating. For e
 * decline of our reefs
 * coral ecocide
 * death of sea life
-* the end of fossil fuel jobs
+* loss of fossil fuel jobs
+* non-violent direct action
 
 Your music will be judged by a panel of artists and activists, to be announced. Winning entries will be music that can:
 
 * move people emotionally
-* exit the Denial and Bargaining phases of grief
+* help exit the Denial and Bargaining phases of grief
 * hold space for Anger and Depression in a way that is empowering 
-* provide room for healing and that motivates action for change
+* provide room for healing
+* motivate action for change
 
 Sonic forms that might not be considered a "song" also allowed:
 

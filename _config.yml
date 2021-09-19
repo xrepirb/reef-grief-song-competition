@@ -14,10 +14,10 @@ author: Extinction Rebellion Queensland - EPIRB (Emotional Processing of Inner R
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  The Competition: "competition"
-  Our Reef: "our-reef"
-  Day of Mourning: "day-of-mourning"
-  Extinction Rebellion: "https://ausrebellion.earth/local-groups?state=QLD"
+  Comp: "competition"
+  Reef: "our-reef"
+  Mourning: "day-of-mourning"
+  XR: "https://ausrebellion.earth/local-groups?state=QLD"
 
 # --- Logo --- #
 
@@ -30,8 +30,7 @@ avatar: "/assets/img/RGSC_logo_circle.jpg"
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
-
+title-img: "/assets/img/reef_grief_logo_text.png"
 
 # --- Footer social media links --- #
 
