@@ -14,7 +14,7 @@ The Reef Grief Song Comp has been launched by Extinction Rebellion activists in 
 
 "These feelings are a natural healthy response to the reality of what is happening. When we allow ourselves to feel these emotions, we can move through them and allow them to move through us. Our grief is our love. Strongly felt emotions can enable an integrated response where we feel motivated to protect all that we love". 
 
-The competition is global. Music and sound will be judged on it's effectiveness as a mourning aid. $1000 AUD will be divided unevenly amongst the top 10 entries.
+The competition is global. Music and sound will be judged on it's effectiveness as a mourning aid. $1000 AUD will be divided amongst the top 10 entries.
 
 Artists retain all rights and allow the tracks to be played or performed at the Day of Mourning for Dead Reef and associated not-for-profit public events for free.
 
