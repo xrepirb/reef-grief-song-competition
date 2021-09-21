@@ -18,7 +18,7 @@ The competition is global. Music and sound will be judged on it's effectiveness 
 
 Artists retain all rights and allow the tracks to be played or performed at the Day of Mourning for Dead Reef and associated not-for-profit public events for free. 
 
-The funds for this prize come from an individual donor who values our reef, emotional connections and wish to support our arists who have been struggling during the pandemic. [Extinction Rebellion QLD](https://ausrebellion.earth) funds are purely to support non-violent direct action and have not been used for this campaign.
+The funds for this prize come from an individual donor who values our reef, emotional connections and wishes to support our arists who have been struggling during the pandemic. [Extinction Rebellion QLD](https://ausrebellion.earth) funds are purely to support non-violent direct action and have not been used for this campaign.
 
 [For detailed information and how to submit, see the "competition" page](/competition)
 
