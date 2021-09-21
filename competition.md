@@ -84,3 +84,8 @@ Entries must be uploaded before the 11th March 2022.
 
 Artists can submit more than one entry and win more than one prize!
 
+## Funds
+
+The funds for this prize come from an individual donor who values our reef, emotional connections and wish to support our arists who have been struggling during the pandemic. [Extinction Rebellion QLD](https://ausrebellion.earth) funds are purely to support non-violent direct action and have not been used for this campaign.
+
+If you would like to help with funding, contact info@reefgrief.org 
