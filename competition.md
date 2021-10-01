@@ -16,7 +16,7 @@ The Reef Grief Song Competition is accepting music that relates to any of the ph
 * depression
 * acceptance
 
-Your music can about any topic related to reef threats and global heating. For example:
+Your music can be about any topic related to reef threats and global heating. For example:
 
 * decline of our reefs
 * coral ecocide
