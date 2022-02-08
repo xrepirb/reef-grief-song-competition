@@ -6,7 +6,7 @@ cover-img: /assets/img/reefs/OceanImageBank_TheOceanAgency_Bleaching_16.jpg
 share-img: /assets/img/reefs/OceanImageBank_TheOceanAgency_Bleaching_16.jpg
 ---
 
-The last Friday of every March will now be the Day of Mourning for Dead Reefs. The innaugural event will take place on the 25th of March 2022 in Queensland and throughout the world. 
+Every year at the end of summer there will now be the Day of Mourning for Dead Reefs. The innaugural event will take place on Saturday the 2nd of April 2022 in King George Square Brisbane, Queensland and throughout the world. 
 
 We will gather. We will remember. We will listen. We will reflect. We will mourn. 
 
