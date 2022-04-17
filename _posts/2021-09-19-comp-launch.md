@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Competition Launch!
-subtitle: $1,000 Kash for teh bESt mourning aids
+subtitle: $1,000 cash for the best mourning aids
 cover-img: /assets/img/bleached_anenome_ocean_agency.jpg
 thumbnail-img: /assets/img/nemo_help_thumb.jpg
 share-img: /assets/img/bleached_anenome_ocean_agency.jpg
