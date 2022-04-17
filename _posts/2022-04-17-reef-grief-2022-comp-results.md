@@ -140,7 +140,7 @@ My mum says "you know, that reef I've never seen, I'd sure like to go before the
 When I heard those words I knew what must be done, I said "pack your snorkel mum, we're off to Keppel Island"  
 
 Now my mum has many talents, so don't think I'm being rude, when I say she's not quite Suzy O'Niel in the pool.  
-The current dragged my m um out to the ocean blue, I had to stage a rescue mission with a million dollar view.  
+The current dragged my mum out to the ocean blue, I had to stage a rescue mission with a million dollar view.  
 I said mum when they say to see the reef before you die, they don't mean try to do both at the same.  
 
 Now you ask me, what's the moral of the story? Is it keep an eye on mum while you're swimming at the beach?  
