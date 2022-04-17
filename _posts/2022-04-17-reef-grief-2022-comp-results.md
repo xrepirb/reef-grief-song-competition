@@ -15,7 +15,7 @@ The Reef Grief Song Comp has accepted six entries, and the results are in.
 ## Coral Coast - Karen Law
 
 <audio controls>
-    <source src="/assets/rgsc_2022/1_Coral_Coast__Karen_Law.mp3" type="audio/mpeg">
+    <source src="/assets/rgsc_2022/1_coral_coast__karen_law.mp3" type="audio/mpeg">
 </audio>
 
 ### Lyrics
@@ -166,7 +166,7 @@ His songs channel the DIY spirit of punk and folk's sense of music as a vehicle 
 
 I woke last night at 2am cold sweats, dark thoughts swimmin' through my head, one of those dreams that we all dread.   
 I dreamt we bled the earth for all she's worth, new coal mines while oceans rise, our precious coral reefs lay dead.  
-I woke to kind the nightmare was as real as the day not just some myth that my mind had made, our suicide well under-way.  
+I woke to find the nightmare was as real as the day not just some myth that my mind had made, our suicide well under-way.  
 And all the while the dollars rise, try to disguise, our mothers blood is used to fund the filthy rich folk's escapades.   
 And so we, endlessly feed our bottomless greed and poison the air that we breathe.  
 
